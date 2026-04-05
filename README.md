@@ -1,5 +1,5 @@
 # AI-PLAYGROUND
-Hi, I Am Riya .:wave: 
+Hi, I Am Riya Parmar .
 My Journey Of Learning AI/ML From Scratch.
 ## What I Will Upload:
 -Python Basics
